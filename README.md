@@ -7,4 +7,4 @@ To download, click the file above, where it says, "Ender Dangered Pack x.zip" an
 
 # Note: Packs will be downloaded in .zip format.
 
-# The latest version for the texture pack is v1.4 (v2)
+# The latest version for the texture pack is v1.4 (Displayed as v2)
