@@ -1,8 +1,8 @@
-# Ender Dangered Bedwars Pack
+# Ender Dangered Texture Pack
 
-Ender Danger Bedwars Pack
+Ender Danger Texture Pack
 
-This will keep you updated to the latest Bedwars Texture Pack. (You can also use this for other games, not just bedwars.)
+This will keep you updated to the latest Texture Pack.
 To download, click the file above, where it says, "Ender Dangered Pack x.zip" and download it.
 
 # Note: Packs will be downloaded in .zip format.
