@@ -1,6 +1,6 @@
 # Ender Dangered Texture Pack
 
-Ender Danger Texture Pack
+Ender Dangered Texture Pack
 
 This will keep you updated to the latest Texture Pack.
 To download, click the file above, where it says, "Ender Dangered Pack x.zip" and download it.
